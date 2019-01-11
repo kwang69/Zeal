@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbrli:xbrl xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xbrli="http://www.xbrl.org/2003/instance" xmlns:jpdei_cor="http://disclosure.edinet-fsa.go.jp/taxonomy/jpdei/2013-08-31/jpdei_cor" xmlns:jpcrp-esr_cor="http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp-esr/2015-04-30/jpcrp-esr_cor">
+  <link:schemaRef xlink:type="simple" xlink:href="jpcrp050300-esr-001_E05663-000_2018-09-21_01_2018-09-21.xsd"/>
+  <xbrli:context id="FilingDateInstant">
+<xbrli:entity>
+<xbrli:identifier scheme="http://disclosure.edinet-fsa.go.jp">E05663-000</xbrli:identifier>
+</xbrli:entity>
+<xbrli:period>
+<xbrli:instant>2018-09-21</xbrli:instant>
+</xbrli:period>
+</xbrli:context>
+  <xbrli:unit id="pure">
+<xbrli:measure>xbrli:pure</xbrli:measure>
+</xbrli:unit>
+  <jpdei_cor:NumberOfSubmissionDEI contextRef="FilingDateInstant" unitRef="pure" decimals="0">1</jpdei_cor:NumberOfSubmissionDEI>
+  <jpcrp-esr_cor:DocumentTitleCoverPage contextRef="FilingDateInstant">臨時報告書</jpcrp-esr_cor:DocumentTitleCoverPage>
+  <jpcrp-esr_cor:PlaceOfFilingCoverPage contextRef="FilingDateInstant">関東財務局長</jpcrp-esr_cor:PlaceOfFilingCoverPage>
+  <jpcrp-esr_cor:FilingDateCoverPage contextRef="FilingDateInstant">2018-09-21</jpcrp-esr_cor:FilingDateCoverPage>
+  <jpcrp-esr_cor:CompanyNameCoverPage contextRef="FilingDateInstant">株式会社アバント</jpcrp-esr_cor:CompanyNameCoverPage>
+  <jpcrp-esr_cor:CompanyNameInEnglishCoverPage contextRef="FilingDateInstant">AVANT CORPORATION</jpcrp-esr_cor:CompanyNameInEnglishCoverPage>
+  <jpcrp-esr_cor:TitleAndNameOfRepresentativeCoverPage contextRef="FilingDateInstant">代表取締役社長　森川　徹治</jpcrp-esr_cor:TitleAndNameOfRepresentativeCoverPage>
+  <jpcrp-esr_cor:AddressOfRegisteredHeadquarterCoverPage contextRef="FilingDateInstant">東京都港区港南二丁目15番2号</jpcrp-esr_cor:AddressOfRegisteredHeadquarterCoverPage>
+  <jpcrp-esr_cor:TelephoneNumberCoverPage contextRef="FilingDateInstant">(03) 6864-0100 (代表)</jpcrp-esr_cor:TelephoneNumberCoverPage>
+  <jpcrp-esr_cor:NameOfContactPersonCoverPage contextRef="FilingDateInstant">取締役財務担当　春日　尚義</jpcrp-esr_cor:NameOfContactPersonCoverPage>
+  <jpcrp-esr_cor:NearestPlaceOfContactCoverPage contextRef="FilingDateInstant">東京都港区港南二丁目15番2号</jpcrp-esr_cor:NearestPlaceOfContactCoverPage>
+  <jpcrp-esr_cor:TelephoneNumberNearestPlaceOfContactCoverPage contextRef="FilingDateInstant">(03) 6864-0100 (代表)</jpcrp-esr_cor:TelephoneNumberNearestPlaceOfContactCoverPage>
+  <jpcrp-esr_cor:NameOfContactPersonNearestPlaceOfContactCoverPage contextRef="FilingDateInstant">取締役財務担当　春日　尚義</jpcrp-esr_cor:NameOfContactPersonNearestPlaceOfContactCoverPage>
+  <jpcrp-esr_cor:PlaceForPublicInspectionCoverPageTextBlock contextRef="FilingDateInstant">
+&lt;p class="smt_tblL" style="text-align:left;line-height:18pt;"&gt;株式会社東京証券取引所　　　　　　　　　　　　　　　　　　(東京都中央区日本橋兜町２番１号)&lt;/p&gt;</jpcrp-esr_cor:PlaceForPublicInspectionCoverPageTextBlock>
+  <jpdei_cor:EDINETCodeDEI contextRef="FilingDateInstant">E05663</jpdei_cor:EDINETCodeDEI>
+  <jpdei_cor:FundCodeDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:SecurityCodeDEI contextRef="FilingDateInstant">38360</jpdei_cor:SecurityCodeDEI>
+  <jpdei_cor:FilerNameInJapaneseDEI contextRef="FilingDateInstant">株式会社アバント</jpdei_cor:FilerNameInJapaneseDEI>
+  <jpdei_cor:FilerNameInEnglishDEI contextRef="FilingDateInstant">AVANT CORPORATION</jpdei_cor:FilerNameInEnglishDEI>
+  <jpdei_cor:FundNameInJapaneseDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:FundNameInEnglishDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:CabinetOfficeOrdinanceDEI contextRef="FilingDateInstant">企業内容等の開示に関する内閣府令</jpdei_cor:CabinetOfficeOrdinanceDEI>
+  <jpdei_cor:DocumentTypeDEI contextRef="FilingDateInstant">第五号の三様式</jpdei_cor:DocumentTypeDEI>
+  <jpdei_cor:AccountingStandardsDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:WhetherConsolidatedFinancialStatementsArePreparedDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:IndustryCodeWhenConsolidatedFinancialStatementsArePreparedInAccordanceWithIndustrySpecificRegulationsDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:IndustryCodeWhenFinancialStatementsArePreparedInAccordanceWithIndustrySpecificRegulationsDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:CurrentFiscalYearStartDateDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:CurrentPeriodEndDateDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:TypeOfCurrentPeriodDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:CurrentFiscalYearEndDateDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:PreviousFiscalYearStartDateDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:ComparativePeriodEndDateDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:PreviousFiscalYearEndDateDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:NextFiscalYearStartDateDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:EndDateOfQuarterlyOrSemiAnnualPeriodOfNextFiscalYearDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:AmendmentFlagDEI contextRef="FilingDateInstant">false</jpdei_cor:AmendmentFlagDEI>
+  <jpdei_cor:IdentificationOfDocumentSubjectToAmendmentDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:ReportAmendmentFlagDEI contextRef="FilingDateInstant">false</jpdei_cor:ReportAmendmentFlagDEI>
+  <jpdei_cor:XBRLAmendmentFlagDEI contextRef="FilingDateInstant">false</jpdei_cor:XBRLAmendmentFlagDEI>
+  <jpcrp-esr_cor:ReasonForFilingTextBlock contextRef="FilingDateInstant">
+&lt;p class="smt_text2"&gt;当社は、平成30年９月19日の定時株主総会において、決議事項が決議されましたので、金融商品取引法第24条の５第４項及び企業内容等の開示に関する内閣府令第19条第２項第９号の２の規定に基づき、本報告書を提出するものであります。&lt;/p&gt;
+&lt;p class="smt_text6"&gt; &lt;/p&gt;</jpcrp-esr_cor:ReasonForFilingTextBlock>
+  <jpcrp-esr_cor:ResolutionOfShareholdersMeetingTextBlock contextRef="FilingDateInstant">
+&lt;h4 class="smt_head3"&gt;(1) 株主総会が開催された年月日&lt;/h4&gt;
+&lt;p class="smt_text3"&gt;平成30年９月19日&lt;/p&gt;
+&lt;p class="smt_text6"&gt; &lt;/p&gt;
+&lt;h4 class="smt_head3"&gt;(2) 決議事項の内容&lt;/h4&gt;
+&lt;p class="smt_text3"&gt;第１号議案 剰余金処分の件&lt;/p&gt;
+&lt;p class="smt_text3"&gt;　　 　　　イ　株主に対する剰余金の配当に関する事項及びその総額&lt;/p&gt;
+&lt;p class="smt_text3"&gt;　　 　　　１株につき金12円　総額225,295,812円&lt;/p&gt;
+&lt;p class="smt_text3"&gt;　　 　　　ロ　効力発生日&lt;/p&gt;
+&lt;p class="smt_text3"&gt;　　 　　　平成30年９月20日&lt;/p&gt;
+&lt;p class="smt_text6" style="padding-left:18pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;font-size:9pt;"&gt;　第２号議案 取締役４名選任の件&lt;/p&gt;
+&lt;p class="smt_text3"&gt;　　　　　 取締役として、森川徹治、春日尚義、福谷尚久、ジョルジュ　ウジューを選任する　&lt;/p&gt;
+&lt;p class="smt_text6"&gt;　　　第３号議案 監査役１名選任の件&lt;/p&gt;
+&lt;p class="smt_text3"&gt;　　　　　 監査役として、鈴木邦男を選任する&lt;/p&gt;
+&lt;p class="smt_text3"&gt;第４号議案 取締役に対する業績連動型株式報酬に係る報酬決定の件&lt;/p&gt;
+&lt;p class="smt_text3" style="padding-left:76pt;text-indent:0pt;"&gt;取締役（社外取締役を除く）に対し、新たに業績連動型株式報酬制度を導入するものとし、現行の報酬枠とは別枠で金銭報酬債権を年額100百万円以内で支給する&lt;/p&gt;
+&lt;p class="smt_text6"&gt;　　　　　　　　 　&lt;/p&gt;
+&lt;h4 class="smt_head3"&gt;(3) 決議事項に対する賛成、反対及び棄権の意思の表示に係る議決権の数、当該決議事項が可決されるための要件並びに当該決議の結果&lt;/h4&gt;
+&lt;p class="smt_unitR"&gt; &lt;/p&gt;
+&lt;div class="tbld" style="text-align:left;"&gt;
+&lt;table cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:solid 0pt #000000;width:454.5pt;" class="align_left"&gt;
+&lt;colgroup&gt;
+&lt;col style="width:99pt;min-width:99pt;"/&gt;
+&lt;col style="width:54pt;min-width:54pt;"/&gt;
+&lt;col style="width:54pt;min-width:54pt;"/&gt;
+&lt;col style="width:54pt;min-width:54pt;"/&gt;
+&lt;col style="width:54pt;min-width:54pt;"/&gt;
+&lt;col style="width:66pt;min-width:66pt;"/&gt;
+&lt;col style="width:36.8pt;min-width:36.8pt;"/&gt;
+&lt;col style="width:36.8pt;min-width:36.8pt;"/&gt;
+&lt;/colgroup&gt;
+&lt;tr style="height:33.0pt"&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-bottom-style:solid;border-bottom-width:0.75pt;border-left-style:solid;border-left-width:0.75pt;border-right-style:solid;border-right-width:0.75pt;"&gt;
+&lt;p class="smt_tblC"&gt;決議事項&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-bottom-style:solid;border-bottom-width:0.75pt;border-left-style:solid;border-left-width:0.75pt;border-right-style:solid;border-right-width:0.75pt;"&gt;
+&lt;p class="smt_tblC"&gt;賛成数&lt;br/&gt;(個)&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-bottom-style:solid;border-bottom-width:0.75pt;border-left-style:solid;border-left-width:0.75pt;border-right-style:solid;border-right-width:0.75pt;"&gt;
+&lt;p class="smt_tblC"&gt;反対数&lt;br/&gt;(個)&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-bottom-style:solid;border-bottom-width:0.75pt;border-left-style:solid;border-left-width:0.75pt;border-right-style:solid;border-right-width:0.75pt;"&gt;
+&lt;p class="smt_tblC"&gt;棄権数&lt;br/&gt;(個)&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-bottom-style:solid;border-bottom-width:0.75pt;border-left-style:solid;border-left-width:0.75pt;border-right-style:solid;border-right-width:0.75pt;"&gt;
+&lt;p class="smt_tblC"&gt;無効数&lt;/p&gt;
+&lt;p class="smt_tblC" style="text-align:center;padding-left:0pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:10pt;font-size:9pt;"&gt;（個）&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-bottom-style:solid;border-bottom-width:0.75pt;border-left-style:solid;border-left-width:0.75pt;border-right-style:solid;border-right-width:0.75pt;"&gt;
+&lt;p class="smt_tblC"&gt;可決要件&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" colspan="2" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-bottom-style:solid;border-bottom-width:0.75pt;border-left-style:solid;border-left-width:0.75pt;border-right-style:solid;border-right-width:0.75pt;"&gt;
+&lt;p class="smt_tblC"&gt;決議の結果及び&lt;br/&gt;賛成(反対)割合&lt;br/&gt;(％)&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height:22.5pt"&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-right-style:solid;border-right-width:0.75pt;"&gt;
+&lt;p class="smt_tblL"&gt;第１号議案&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-right-style:solid;border-right-width:0.75pt;"&gt;
+&lt;p class="smt_tblR"&gt;130,154&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-right-style:solid;border-right-width:0.75pt;"&gt;
+&lt;p class="smt_tblL" style="text-align:right;"&gt;　　　91&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-right-style:solid;border-right-width:0.75pt;"&gt;
+&lt;p class="smt_tblR"&gt;0&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-right-style:solid;border-right-width:0.75pt;"&gt;
+&lt;p class="smt_tblR"&gt;92&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-right-style:solid;border-right-width:0.75pt;"&gt;
+&lt;p class="smt_tblC"&gt;(注)１&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-right-color:#a9a9a9;"&gt;
+&lt;p class="smt_tblC"&gt;可決&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-color:#a9a9a9;border-right-style:solid;border-right-width:0.75pt;"&gt;
+&lt;p class="smt_tblL"&gt; 94.04&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height:22.5pt"&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblL"&gt;第２号議案&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblR"&gt; &lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblR"&gt; &lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-color:#a9a9a9;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblR"&gt; &lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-color:#a9a9a9;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblR"&gt; &lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblC"&gt;(注)２&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-color:#a9a9a9;"&gt;
+&lt;p class="smt_tblC"&gt; &lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-left-color:#a9a9a9;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblR"&gt; &lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height:22.5pt"&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-color:#a9a9a9;border-bottom-color:#a9a9a9;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblL"&gt;森川　徹治&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-color:#a9a9a9;border-bottom-color:#a9a9a9;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblR"&gt;130,062&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-color:#a9a9a9;border-bottom-color:#a9a9a9;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblR"&gt;183&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-color:#a9a9a9;border-bottom-color:#a9a9a9;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblR"&gt;0&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-color:#a9a9a9;border-bottom-color:#a9a9a9;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblR"&gt;92&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-color:#a9a9a9;border-bottom-color:#a9a9a9;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblC"&gt; &lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-color:#a9a9a9;border-bottom-color:#a9a9a9;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-color:#a9a9a9;"&gt;
+&lt;p class="smt_tblC"&gt;可決&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-color:#a9a9a9;border-bottom-color:#a9a9a9;border-left-color:#a9a9a9;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblL"&gt; 93.97&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height:22.5pt"&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-color:#a9a9a9;border-bottom-color:#a9a9a9;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblL"&gt;春日　尚義&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-color:#a9a9a9;border-bottom-color:#a9a9a9;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblR"&gt;130,103&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-color:#a9a9a9;border-bottom-color:#a9a9a9;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblR"&gt;142&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-color:#a9a9a9;border-bottom-color:#a9a9a9;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblR"&gt;0&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-color:#a9a9a9;border-bottom-color:#a9a9a9;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblR"&gt;92&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-color:#a9a9a9;border-bottom-color:#a9a9a9;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblC"&gt; &lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-color:#a9a9a9;border-bottom-color:#a9a9a9;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-color:#a9a9a9;"&gt;
+&lt;p class="smt_tblC"&gt;可決&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-bottom-color:#a9a9a9;border-left-color:#a9a9a9;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblR"&gt;94.00&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height:22.5pt"&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-color:#a9a9a9;border-bottom-color:#a9a9a9;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblL"&gt;福谷　尚久&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-color:#a9a9a9;border-bottom-color:#a9a9a9;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblR"&gt;130,123&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-color:#a9a9a9;border-bottom-color:#a9a9a9;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblR"&gt;122&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-color:#a9a9a9;border-bottom-color:#a9a9a9;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblR"&gt;0&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-color:#a9a9a9;border-bottom-color:#a9a9a9;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblR"&gt;92&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-color:#a9a9a9;border-bottom-color:#a9a9a9;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblC"&gt; &lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-color:#a9a9a9;border-bottom-color:#a9a9a9;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-color:#a9a9a9;"&gt;
+&lt;p class="smt_tblC"&gt;可決&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-color:#a9a9a9;border-bottom-color:#a9a9a9;border-left-color:#a9a9a9;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblR"&gt;94.01&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height:22.5pt"&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-color:#a9a9a9;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblL"&gt;ジョルジュ ウジュー&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-color:#a9a9a9;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblR"&gt;130,129&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-color:#a9a9a9;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblR"&gt;116&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-color:#a9a9a9;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblR"&gt;0&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-color:#a9a9a9;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblR"&gt;92&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-color:#a9a9a9;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblC"&gt; &lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-color:#a9a9a9;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-color:#a9a9a9;"&gt;
+&lt;p class="smt_tblC"&gt;可決&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-color:#a9a9a9;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-color:#a9a9a9;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblR"&gt;94.02&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height:22.5pt"&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-color:#a9a9a9;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblL"&gt;第３号議案&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-color:#a9a9a9;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblR"&gt; &lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-color:#a9a9a9;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblR"&gt; &lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-color:#a9a9a9;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblR"&gt; &lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-color:#a9a9a9;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblR"&gt; &lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-color:#a9a9a9;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblC"&gt;(注)２&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-color:#a9a9a9;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-color:#a9a9a9;"&gt;
+&lt;p class="smt_tblC"&gt; &lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-color:#a9a9a9;border-left-color:#a9a9a9;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblR"&gt; &lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height:22.5pt"&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-color:#a9a9a9;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblL"&gt;鈴木　邦男&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-color:#a9a9a9;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblR"&gt;117,255&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-color:#a9a9a9;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblR"&gt;12,990&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-color:#a9a9a9;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblR"&gt;0&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-color:#a9a9a9;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblR"&gt;92&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;"&gt;
+&lt;p class="smt_tblC"&gt; &lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-color:#a9a9a9;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-right-color:#a9a9a9;"&gt;
+&lt;p class="smt_tblC"&gt;可決&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-color:#a9a9a9;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-color:#a9a9a9;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblR"&gt;84.72&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height:22.5pt"&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblL"&gt;第４号議案&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblR"&gt;130,091&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblR"&gt;138&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblR"&gt;0&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblR"&gt;108&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblC"&gt;(注)１&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-style:solid;border-left-width:0.75pt;border-left-color:#000000;"&gt;
+&lt;p class="smt_tblC"&gt;可決&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle" style="vertical-align:middle;border-top-style:solid;border-top-width:0.75pt;border-top-color:#000000;border-bottom-style:solid;border-bottom-width:0.75pt;border-bottom-color:#000000;border-left-color:#a9a9a9;border-right-style:solid;border-right-width:0.75pt;border-right-color:#000000;"&gt;
+&lt;p class="smt_tblR"&gt;94.00&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;p style="clear:both; line-height:0.75pt; width:100%; font-size:0.75pt;"&gt; &lt;/p&gt;
+&lt;/div&gt;
+&lt;p class="smt_annoNum1"&gt;(注) １．出席した株主の議決権の過半数の賛成による。&lt;/p&gt;
+&lt;p class="smt_annoNum2"&gt;２．議決権を行使することができる株主の議決権の３分の１以上を有する株主が出席し、出席した当該株主の議決権の過半数の賛成による。&lt;/p&gt;
+&lt;h4 class="smt_head3" style="padding-left:9pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;text-align:justify;letter-spacing:0pt;line-height:15pt;font-size:15pt;"&gt; &lt;/h4&gt;
+&lt;h4 class="smt_head3" style="padding-left:9pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;text-align:justify;letter-spacing:0pt;line-height:15pt;font-size:9pt;"&gt;(4) 株主総会に出席した株主の議決権の数の一部を加算しなかった理由&lt;/h4&gt;
+&lt;p class="smt_text3"&gt;本総会前日までの事前行使分及び当日出席の一部の株主のうち賛否に関して確認できたものを合計したことにより、決議事項の可決又は否決が明らかになったため、本総会当日出席の株主のうち、賛成、反対及び棄権の確認ができていない議決権数は加算しておりません。&lt;/p&gt;</jpcrp-esr_cor:ResolutionOfShareholdersMeetingTextBlock>
+</xbrli:xbrl>

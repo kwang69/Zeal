@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbrli:xbrl xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xbrli="http://www.xbrl.org/2003/instance" xmlns:jpdei_cor="http://disclosure.edinet-fsa.go.jp/taxonomy/jpdei/2013-08-31/jpdei_cor" xmlns:jpcrp-esr_cor="http://disclosure.edinet-fsa.go.jp/taxonomy/jpcrp-esr/2015-04-30/jpcrp-esr_cor">
+  <link:schemaRef xlink:type="simple" xlink:href="jpcrp050300-esr-001_E05663-000_2017-08-09_01_2017-08-09.xsd"/>
+  <xbrli:context id="FilingDateInstant">
+<xbrli:entity>
+<xbrli:identifier scheme="http://disclosure.edinet-fsa.go.jp">E05663-000</xbrli:identifier>
+</xbrli:entity>
+<xbrli:period>
+<xbrli:instant>2017-08-09</xbrli:instant>
+</xbrli:period>
+</xbrli:context>
+  <xbrli:unit id="pure">
+<xbrli:measure>xbrli:pure</xbrli:measure>
+</xbrli:unit>
+  <jpdei_cor:NumberOfSubmissionDEI contextRef="FilingDateInstant" unitRef="pure" decimals="0">1</jpdei_cor:NumberOfSubmissionDEI>
+  <jpcrp-esr_cor:DocumentTitleCoverPage contextRef="FilingDateInstant">臨時報告書</jpcrp-esr_cor:DocumentTitleCoverPage>
+  <jpcrp-esr_cor:PlaceOfFilingCoverPage contextRef="FilingDateInstant">関東財務局長</jpcrp-esr_cor:PlaceOfFilingCoverPage>
+  <jpcrp-esr_cor:FilingDateCoverPage contextRef="FilingDateInstant">2017-08-09</jpcrp-esr_cor:FilingDateCoverPage>
+  <jpcrp-esr_cor:CompanyNameCoverPage contextRef="FilingDateInstant">株式会社アバント</jpcrp-esr_cor:CompanyNameCoverPage>
+  <jpcrp-esr_cor:CompanyNameInEnglishCoverPage contextRef="FilingDateInstant">AVANT CORPORATION</jpcrp-esr_cor:CompanyNameInEnglishCoverPage>
+  <jpcrp-esr_cor:TitleAndNameOfRepresentativeCoverPage contextRef="FilingDateInstant">代表取締役社長　森川　徹治</jpcrp-esr_cor:TitleAndNameOfRepresentativeCoverPage>
+  <jpcrp-esr_cor:AddressOfRegisteredHeadquarterCoverPage contextRef="FilingDateInstant">東京都港区港南二丁目15番２号</jpcrp-esr_cor:AddressOfRegisteredHeadquarterCoverPage>
+  <jpcrp-esr_cor:TelephoneNumberCoverPage contextRef="FilingDateInstant">（03）6864-0100（代表）</jpcrp-esr_cor:TelephoneNumberCoverPage>
+  <jpcrp-esr_cor:NameOfContactPersonCoverPage contextRef="FilingDateInstant">取締役財務担当　春日　尚義</jpcrp-esr_cor:NameOfContactPersonCoverPage>
+  <jpcrp-esr_cor:NearestPlaceOfContactCoverPage contextRef="FilingDateInstant">東京都港区港南二丁目15番２号</jpcrp-esr_cor:NearestPlaceOfContactCoverPage>
+  <jpcrp-esr_cor:TelephoneNumberNearestPlaceOfContactCoverPage contextRef="FilingDateInstant">（03）6864-0100（代表）</jpcrp-esr_cor:TelephoneNumberNearestPlaceOfContactCoverPage>
+  <jpcrp-esr_cor:NameOfContactPersonNearestPlaceOfContactCoverPage contextRef="FilingDateInstant">取締役財務担当　春日　尚義</jpcrp-esr_cor:NameOfContactPersonNearestPlaceOfContactCoverPage>
+  <jpcrp-esr_cor:PlaceForPublicInspectionCoverPageTextBlock contextRef="FilingDateInstant">
+&lt;p class="smt_tblL" style="text-align:justify;padding-left:0pt;padding-right:0pt;margin-top:0pt;margin-bottom:0pt;text-justify:inter-ideograph;text-indent:0pt;font-family:&amp;apos;ＭＳ 明朝&amp;apos;;letter-spacing:0pt;line-height:18pt;"&gt;株式会社東京証券取引所&lt;br/&gt;　(東京都中央区日本橋兜町２番１号)&lt;/p&gt;</jpcrp-esr_cor:PlaceForPublicInspectionCoverPageTextBlock>
+  <jpdei_cor:EDINETCodeDEI contextRef="FilingDateInstant">E05663</jpdei_cor:EDINETCodeDEI>
+  <jpdei_cor:FundCodeDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:SecurityCodeDEI contextRef="FilingDateInstant">38360</jpdei_cor:SecurityCodeDEI>
+  <jpdei_cor:FilerNameInJapaneseDEI contextRef="FilingDateInstant">株式会社アバント</jpdei_cor:FilerNameInJapaneseDEI>
+  <jpdei_cor:FilerNameInEnglishDEI contextRef="FilingDateInstant">AVANT CORPORATION</jpdei_cor:FilerNameInEnglishDEI>
+  <jpdei_cor:FundNameInJapaneseDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:FundNameInEnglishDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:CabinetOfficeOrdinanceDEI contextRef="FilingDateInstant">企業内容等の開示に関する内閣府令</jpdei_cor:CabinetOfficeOrdinanceDEI>
+  <jpdei_cor:DocumentTypeDEI contextRef="FilingDateInstant">第五号の三様式</jpdei_cor:DocumentTypeDEI>
+  <jpdei_cor:AccountingStandardsDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:WhetherConsolidatedFinancialStatementsArePreparedDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:IndustryCodeWhenConsolidatedFinancialStatementsArePreparedInAccordanceWithIndustrySpecificRegulationsDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:IndustryCodeWhenFinancialStatementsArePreparedInAccordanceWithIndustrySpecificRegulationsDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:CurrentFiscalYearStartDateDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:CurrentPeriodEndDateDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:TypeOfCurrentPeriodDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:CurrentFiscalYearEndDateDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:PreviousFiscalYearStartDateDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:ComparativePeriodEndDateDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:PreviousFiscalYearEndDateDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:NextFiscalYearStartDateDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:EndDateOfQuarterlyOrSemiAnnualPeriodOfNextFiscalYearDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:AmendmentFlagDEI contextRef="FilingDateInstant">false</jpdei_cor:AmendmentFlagDEI>
+  <jpdei_cor:IdentificationOfDocumentSubjectToAmendmentDEI xsi:nil="true" contextRef="FilingDateInstant"/>
+  <jpdei_cor:ReportAmendmentFlagDEI contextRef="FilingDateInstant">false</jpdei_cor:ReportAmendmentFlagDEI>
+  <jpdei_cor:XBRLAmendmentFlagDEI contextRef="FilingDateInstant">false</jpdei_cor:XBRLAmendmentFlagDEI>
+  <jpcrp-esr_cor:ReasonForFilingTextBlock contextRef="FilingDateInstant">
+&lt;p class="smt_text6"&gt;　当社において特定子会社の異動がありましたので、金融商品取引法第24条の５第４項及び企業内容等の開示に関する内閣府令第19条第２項第３号の規定に基づき、臨時報告書を提出するものであります。&lt;/p&gt;
+&lt;p class="smt_text6"&gt; &lt;/p&gt;</jpcrp-esr_cor:ReasonForFilingTextBlock>
+  <jpcrp-esr_cor:ChangesInParentCompaniesOrSpecifiedSubsidiariesTextBlock contextRef="FilingDateInstant">
+&lt;h3 class="smt_head2" style="font-size:9pt;"&gt;(1）当該異動に係る特定子会社の名称、住所、代表者の氏名、資本金及び事業の内容&lt;br/&gt;　　①　名称　　　　　　株式会社フィエルテ&lt;br/&gt;　　②　住所　　　　　　東京都新宿区西新宿六丁目5番１号&lt;br/&gt;　　③　代表者の氏名　　代表取締役社長　　永田　玄&lt;br/&gt;　　④　資本金　　　　　100,000千円&lt;br/&gt;　　⑤　事業の内容　　　アウトソーシング関連事業&lt;br/&gt; &lt;/h3&gt;
+&lt;p class="smt_text2" style="padding-left:0pt;text-indent:0pt;"&gt;(2）当該異動の前後における当社の所有に係る当該特定子会社の議決権の数及びその総株主等の議決権に対する割合&lt;br/&gt;①　当社の所有に係る議決権の数&lt;br/&gt;　　異動前　　　　 －個&lt;br/&gt;　　異動後　　　4,000個&lt;br/&gt;②　総株主等の議決権に対する割合&lt;br/&gt;　　異動前　　　 －％&lt;br/&gt;　　異動後　　100.0％&lt;/p&gt;
+&lt;p class="smt_text1"&gt; &lt;/p&gt;
+&lt;p class="smt_text2" style="padding-left:0pt;text-indent:0pt;"&gt;(3）当該異動の理由及びその年月日&lt;br/&gt;①　異動の理由&lt;br/&gt;　当社の100％出資子会社である株式会社ディーバのアウトソーシングに関する事業を会社分割（吸収分割）のうえ承継することを目的として、株式会社フィエルテを当社100％出資子会社として設立いたしました。当該子会社は資本金の額が当社の資本金の額の100分の10以上に相当し、当社の特定子会社に該当することとなりました。&lt;br/&gt; &lt;br/&gt;②　異動年月日&lt;br/&gt;　平成29年８月７日&lt;br/&gt; &lt;/p&gt;
+&lt;p class="smt_text1" style="text-align:right;"&gt;以上&lt;/p&gt;</jpcrp-esr_cor:ChangesInParentCompaniesOrSpecifiedSubsidiariesTextBlock>
+</xbrli:xbrl>
